@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTask Loader</string>
+    <string name="instruction_top">Enter a book name, or part of a book name, or just some text from a book to find the full book title and who wrote the book!</string>
+    <string name="input_hint">Enter a Book Title</string>
+</resources>
